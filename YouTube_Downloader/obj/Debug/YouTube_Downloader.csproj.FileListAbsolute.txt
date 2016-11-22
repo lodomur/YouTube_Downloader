@@ -1,0 +1,12 @@
+D:\YouTube_Downloader\YouTube_Downloader\bin\Debug\YouTube_Downloader.exe.config
+D:\YouTube_Downloader\YouTube_Downloader\bin\Debug\YouTube_Downloader.exe
+D:\YouTube_Downloader\YouTube_Downloader\bin\Debug\YouTube_Downloader.pdb
+D:\YouTube_Downloader\YouTube_Downloader\bin\Debug\libvideo.dll
+D:\YouTube_Downloader\YouTube_Downloader\bin\Debug\MetroFramework.dll
+D:\YouTube_Downloader\YouTube_Downloader\bin\Debug\MetroFramework.Fonts.dll
+D:\YouTube_Downloader\YouTube_Downloader\obj\Debug\YouTube_Downloader.Properties.Resources.resources
+D:\YouTube_Downloader\YouTube_Downloader\obj\Debug\YouTube_Downloader.csproj.GenerateResource.Cache
+D:\YouTube_Downloader\YouTube_Downloader\obj\Debug\YouTube_Downloader.exe
+D:\YouTube_Downloader\YouTube_Downloader\obj\Debug\YouTube_Downloader.pdb
+D:\YouTube_Downloader\YouTube_Downloader\obj\Debug\YouTube_Downloader.csprojResolveAssemblyReference.cache
+D:\YouTube_Downloader\YouTube_Downloader\obj\Debug\YouTube_Downloader.MainForm.resources
